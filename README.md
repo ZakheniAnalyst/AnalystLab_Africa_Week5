@@ -94,7 +94,7 @@ The Power BI dashboard analyses:
 - Appointment volume by time of day
 - Appointment distribution by reminder status
 
-![HealthConnect Analytics Dashboard](Screenshot 2026-09-06 031258.png)
+![HealthConnect Analytics Dashboard](dashboard.png)
 
 ## Initial Findings
 
